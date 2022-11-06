@@ -2,10 +2,36 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://leafybillow.github.io/</loc>
+    <lastmod>2022-11-06T11:40:19-08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://leafybillow.github.io/machinelearning/</loc>
+    <lastmod>2022-11-06T11:40:19-08:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://leafybillow.github.io/machinelearning/vae2/</loc>
+    <lastmod>2022-11-06T11:40:19-08:00</lastmod>
+  </url><url>
+    <loc>https://leafybillow.github.io/tags/generative-model/</loc>
+    <lastmod>2022-11-06T11:13:42-08:00</lastmod>
+  </url><url>
+    <loc>https://leafybillow.github.io/machinelearning/introduction-to-vae-1/</loc>
+    <lastmod>2022-11-06T11:13:42-08:00</lastmod>
+  </url><url>
+    <loc>https://leafybillow.github.io/tags/machine-learning/</loc>
+    <lastmod>2022-11-06T11:13:42-08:00</lastmod>
+  </url><url>
+    <loc>https://leafybillow.github.io/tags/</loc>
+    <lastmod>2022-11-06T11:13:42-08:00</lastmod>
+  </url><url>
+    <loc>https://leafybillow.github.io/about/</loc>
+    <lastmod>2022-11-05T23:58:34-07:00</lastmod>
+  </url><url>
+    <loc>https://leafybillow.github.io/achive/</loc>
+  </url><url>
+    <loc>https://leafybillow.github.io/archive/</loc>
+  </url><url>
+    <loc>https://leafybillow.github.io/categories/</loc>
+  </url><url>
+    <loc>https://leafybillow.github.io/search/</loc>
   </url>
 </urlset>
