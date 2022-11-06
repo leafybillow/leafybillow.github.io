@@ -12,11 +12,20 @@
     <lastBuildDate>Sun, 06 Nov 2022 11:13:42 -0800</lastBuildDate><atom:link href="https://leafybillow.github.io/tags/generative-model/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to VAE - Part I</title>
-      <link>https://leafybillow.github.io/machinelearning/introduction-to-vae-1/</link>
+      <link>https://leafybillow.github.io/posts/machinelearning/introduction-to-vae-1/</link>
       <pubDate>Sun, 06 Nov 2022 11:13:42 -0800</pubDate>
       
-      <guid>https://leafybillow.github.io/machinelearning/introduction-to-vae-1/</guid>
-      <description>Desc Text.</description>
+      <guid>https://leafybillow.github.io/posts/machinelearning/introduction-to-vae-1/</guid>
+      <description>Variational Auto-Encoder.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to VAE - Part II</title>
+      <link>https://leafybillow.github.io/posts/machinelearning/test/</link>
+      <pubDate>Sun, 06 Nov 2022 11:13:42 -0800</pubDate>
+      
+      <guid>https://leafybillow.github.io/posts/machinelearning/test/</guid>
+      <description>Variational Auto-Encoder.</description>
     </item>
     
   </channel>

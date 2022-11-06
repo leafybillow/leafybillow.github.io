@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>leafybillow</title>
-    <link>https://leafybillow.github.io/</link>
-    <description>Recent content on leafybillow</description>
+    <title>Machine Learning on leafybillow</title>
+    <link>https://leafybillow.github.io/posts/machinelearning/</link>
+    <description>Recent content in Machine Learning on leafybillow</description>
     <image>
       <url>https://leafybillow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://leafybillow.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 06 Nov 2022 11:13:42 -0800</lastBuildDate><atom:link href="https://leafybillow.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Nov 2022 11:13:42 -0800</lastBuildDate><atom:link href="https://leafybillow.github.io/posts/machinelearning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to VAE - Part I</title>
       <link>https://leafybillow.github.io/posts/machinelearning/introduction-to-vae-1/</link>
@@ -27,17 +27,6 @@
       <guid>https://leafybillow.github.io/posts/machinelearning/test/</guid>
       <description>Variational Auto-Encoder.</description>
     </item>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://leafybillow.github.io/about/</link>
-      <pubDate>Sat, 05 Nov 2022 23:58:34 -0700</pubDate>
-      
-      <guid>https://leafybillow.github.io/about/</guid>
-      <description>I was a 7-year old PhD in experimental nuclear physics. I am currently a software engineer in Google.</description>
-    </item>
-    
-    
     
   </channel>
 </rss>
